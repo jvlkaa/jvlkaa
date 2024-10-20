@@ -1,7 +1,7 @@
 <h2 align="left">welcome to my profile</h2>
 - Student of Gdańsk University of Technology,
 <br/>
-- Looking for an internship,
+- FPGA intern in Adtran,
 <br/>
 - How to reach me 📫: juliachomicka@wp.pl
 
